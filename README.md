@@ -5,7 +5,7 @@
 </p>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=1800&pause=100&multiline=true&width=700&height=120&lines=Hey+there!+%F0%9F%91%8B+I'm+Hassn;Passionate+about+Artificial+Intelligence%2C" alt="Typing SVG 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=1800&pause=100&multiline=true&width=700&height=120&lines=Hey+there!+%F0%9F%91%8B+I'm+Hassn;AI+Enginner ; +Data+Scientist" alt="Typing SVG 1" />
 
 <!-- Information about profile and social links -->
 <h3 align="left">Connect with me:</h3>
