@@ -4,7 +4,7 @@
 </p>
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=28&duration=1800&pause=100&multiline=true&width=700&height=120&lines=Hey+there!+%F0%9F%91%8B+I'm+Hassn;AI+Engineer;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=28&duration=1800&pause=100&multiline=true&width=700&height=120&lines=Hey+there!+%F0%9F%91%8B+I'm+Hassnツ;AI+Engineer;Data+Scientist&color=000000" alt="Typing SVG" />
 </p>
 <!-- Information about profile and social links -->
 <h3 align="left">Connect with me:</h3>
