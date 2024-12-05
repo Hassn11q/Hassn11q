@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hassn11q&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=28&duration=1800&pause=100&multiline=true&width=700&height=120&lines=Hey+there!+%F0%9F%91%8B+I'm+Hassnツ;**+********;****+*********&color=000000" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hey+there!+%F0%9F%91%8B+I'm+Hassn%E3%83%84" alt="Typing SVG" /></a>
 </p>
 <!-- Information about profile and social links -->
 <h3 align="left">Connect with me:</h3>
